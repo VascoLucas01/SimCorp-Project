@@ -1,7 +1,5 @@
 
-
-
-## *What hours will you be available to communicate?**
+## **What hours will you be available to communicate?**
 
 * **Vasco Lucas:** I will always be available to communicate. Work hours will be from 7/8/9AM to 10PM.
 * **Sérgio Charruadas:**
