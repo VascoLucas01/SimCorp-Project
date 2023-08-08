@@ -5,3 +5,5 @@
 [CooperationPlan](https://github.com/VascoLucas01/Cyber-Final-Project/blob/main/TeamAgreements/CooperationPlan.md)
 
 [WorkPlan](https://github.com/VascoLucas01/Cyber-Final-Project/blob/main/TeamAgreements/WorkPlan.md)
+
+[GitProcess](https://github.com/VascoLucas01/Cyber-Final-Project/blob/main/TeamAgreements/GitProcess.md)
