@@ -1,21 +1,21 @@
 
 ## **What are the key strengths of each person on the team?**
 
-* **Vasco Lucas:**
+* **Vasco Lucas:** Research, Persistent, Enthusiast.
 * **Sérgio Charruadas:**
 * **José Serpa Pinto:**
 ## **How can you best utilize these strengths in the execution of your project?**
 
-* **Vasco Lucas:**
+* **Vasco Lucas:** Always ask if they need help, give suggestions and welcome them too in order to allow a good flow of the project and team work.
 * **Sérgio Charruadas:**
 * **José Serpa Pinto:**
 ## **In which professional competencies do you each want to develop greater strength?**
 
-* **Vasco Lucas:**
+* **Vasco Lucas:** Self Confidence, keep calm.
 * **Sérgio Charruadas:**
 * **José Serpa Pinto:**
 ## **Knowing that every person in your team needs to understand all aspects of the project, how do you plan to approach the day-to-day work?**
 
-* **Vasco Lucas:**
-* **Sérgio Charruadas:**
-* **José Serpa Pinto:**
+A private channel/group was created in Slack and Discord in order to communicate and update every idea or improvements about the project. In fact, the schedules of each one of the elements of the group are quite different, but we already talked and everyday we’re going to give feedback and try to ensure that all the work is done with all the presence of all the elements.
+
+We will make sure that everyone is on board with every step of the project, having either worked on it or at least understood what was done by the other colleague every time there is a github commit or a decision was taken.

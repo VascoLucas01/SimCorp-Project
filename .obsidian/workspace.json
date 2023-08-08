@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "08a00c293647dcf8",
@@ -149,9 +148,11 @@
   },
   "active": "4efa971cd80ff6c0",
   "lastOpenFiles": [
-    "TeamAgreements/CommunicationPlan.md",
+    "TeamAgreements/TeamAgreements.md",
     "TeamAgreements/WorkPlan.md",
-    "TeamAgreements/ConflictPlan.md",
-    "TeamAgreements/CooperationPlan.md"
+    "TeamAgreements/GitProcess.md",
+    "TeamAgreements/CooperationPlan.md",
+    "TeamAgreements/CommunicationPlan.md",
+    "TeamAgreements/ConflictPlan.md"
   ]
 }
