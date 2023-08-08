@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TeamAgreements/WorkPlan.md",
+                "file": "TeamAgreements/TeamAgreements.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TeamAgreements/WorkPlan.md",
+                "file": "TeamAgreements/TeamAgreements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TeamAgreements/WorkPlan.md",
+                "file": "TeamAgreements/TeamAgreements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TeamAgreements/WorkPlan.md"
+                "file": "TeamAgreements/TeamAgreements.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "4efa971cd80ff6c0",
   "lastOpenFiles": [
-    "TeamAgreements/TeamAgreements.md",
     "TeamAgreements/WorkPlan.md",
+    "TeamAgreements/TeamAgreements.md",
     "TeamAgreements/GitProcess.md",
     "TeamAgreements/CooperationPlan.md",
     "TeamAgreements/CommunicationPlan.md",
