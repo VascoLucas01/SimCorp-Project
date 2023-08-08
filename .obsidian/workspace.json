@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TeamAgreements/CommunicationPlan.md",
+                "file": "TeamAgreements/WorkPlan.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "08a00c293647dcf8",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TeamAgreements/CommunicationPlan.md",
+                "file": "TeamAgreements/WorkPlan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TeamAgreements/CommunicationPlan.md",
+                "file": "TeamAgreements/WorkPlan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TeamAgreements/CommunicationPlan.md"
+                "file": "TeamAgreements/WorkPlan.md"
               }
             }
           }
@@ -148,9 +149,9 @@
   },
   "active": "4efa971cd80ff6c0",
   "lastOpenFiles": [
-    "TeamAgreements/WorkPlan.md",
-    "TeamAgreements/CooperationPlan.md",
     "TeamAgreements/CommunicationPlan.md",
-    "TeamAgreements/ConflictPlan.md"
+    "TeamAgreements/WorkPlan.md",
+    "TeamAgreements/ConflictPlan.md",
+    "TeamAgreements/CooperationPlan.md"
   ]
 }
