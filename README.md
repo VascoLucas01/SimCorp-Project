@@ -1,4 +1,5 @@
-# SimCorp-Project
+# **SimCorp-Project**
+***
 
 ## Project Scope:
 
