@@ -1,4 +1,16 @@
-# Cyber-Final-Project
+# SimCorp-Project
+
+## Project Scope:
+
+Our primary concern centers around the security of SimCorp's cloud systems following a recent data exposure incident due to misconfigured instances. To address this, we've been tasked to support for a comprehensive adversary emulation engagement. This endeavor necessitates the formation of two vital teams - the **Red Team** and the **Blue Team**.
+
+### Red Team's Role (our role):
+
+The Red Team is tasked with the emulation of potential adversaries. Our expertise will be invaluable in identifying vulnerabilities within SimCorp's systems and simulating realistic attacks to uncover potential weaknesses. Through these efforts, we aim to proactively address vulnerabilities before they can be exploited maliciously.
+
+### Blue Team's Role:
+
+The Blue Team is entrusted with enhancing SimCorp's defensive systems. The team will play a pivotal role in elevating SimCorp's threat detection capabilities, constantly monitoring their network for any anomalies. The team's insights will be instrumental in fortifying SimCorp's security infrastructure.
 
 ## Deliverables:
 
