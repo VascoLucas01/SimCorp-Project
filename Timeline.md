@@ -13,4 +13,4 @@
 ## August 10, 2023
 
 * Red Team Objectives document  and OpenVPN credentials received
-* Planning
+* Planning and first connection to the LAN network via OpenVPN
