@@ -44,7 +44,12 @@ For example, if we wanted to perform attacks from Kali Linux, we would activate 
 ## Rules of Engagement
 
 * Do not attack or damage the hypervisor software on instances
-* Read and abide by the [AWS Pentesting Policy](https://aws)
+* Read and abide by the [AWS Pentesting Policy](https://aws.amazon.com/security/penetration-testing/)
+* Do not alter the firewall or port configurations on the instances
+* Do not attack tooling systems: OpenVPN server instance; SIEM instance; Threat hunter instance
+* Do not damage the operability of the instances
+* Do not delete data on the instances
+* If you need a reboot on an instance, contact the white team
 
 ## Deliverables:
 
