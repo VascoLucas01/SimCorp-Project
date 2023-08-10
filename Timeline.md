@@ -14,3 +14,4 @@
 
 * Red Team Objectives document  and OpenVPN credentials received
 * Planning and first connection to the LAN network via OpenVPN
+* Phase 1 of the Pentest Process: Pre-engagement interactions (RoE - Rules of Engagement)
