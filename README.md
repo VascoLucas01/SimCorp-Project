@@ -31,9 +31,9 @@ For example, if we wanted to perform attacks from Kali Linux, we would activate 
 
 **RTOS1.** Enumerate the target network, gleaning as much information as possible about the various hosts and their configurations. Document in detail what tools were used and how much you were able to reveal.
 
-* **RTO1a.** Create a professional network topology og the target environment for inclusion in your final report.
+* **RTO1a.** Create a professional network topology of the target environment for inclusion in your final report.
 
-**RTO2.** Dicover vulnerabilities on targets hosts on the network. There will be at least one web application for you to discover and test against, in addition to several other instances running various operating systems with inknown configurations.
+**RTO2.** Discover vulnerabilities on targets hosts on the network. There will be at least one web application for you to discover and test against, in addition to several other instances running various operating systems with unknown configurations.
 
 **RTO3.** Build/customize and utilize at least one custom Python tool to aid in your team's offensive efforts.
 
