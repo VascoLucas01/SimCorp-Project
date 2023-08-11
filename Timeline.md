@@ -15,11 +15,10 @@
 * Red Team Objectives document  and OpenVPN credentials received
 * Planning and first connection to the LAN network via OpenVPN
 * Phase 1 of the Pentest Process: Pre-engagement interactions (RoE - Rules of Engagement)
-* Phase 2 of the Pentest Process: Intelligence Gathering (Understand the services, OS, machines, etc; passive and active gathering)
+* Phase 2 of the Pentest Process: Intelligence Gathering - Understand the services, OS, machines, etc; passive and active gathering
 
 > REFERENCES: [Evading Firewall/IDS during network reconnaissance using nmap](https://infosecwriteups.com/evading-firewall-ids-during-network-reconnaissance-using-nmap-7dc393138178)
 
-
 ## August 11, 2023
 
-* Phase 2 of the Pentest Process: Intelligence Gathering (Understand the services, OS, machines, etc; passive and active gathering)
+* Phase 2 of the Pentest Process: Intelligence Gathering - Understand the services, OS, machines, etc; passive and active gathering (Continuation)
