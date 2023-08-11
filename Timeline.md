@@ -19,3 +19,7 @@
 
 > REFERENCES: [Evading Firewall/IDS during network reconnaissance using nmap](https://infosecwriteups.com/evading-firewall-ids-during-network-reconnaissance-using-nmap-7dc393138178)
 
+
+## August 11, 2023
+
+* Phase 2 of the Pentest Process: Intelligence Gathering (Understand the services, OS, machines, etc; passive and active gathering)
