@@ -29,3 +29,5 @@
 
 * Phase 2 of the Pentest Process: Intelligence Gathering - Understand the services, OS, machines, etc; passive and active gathering (Continuation)
 * Report (Continuation)
+
+## August 13, 2023
