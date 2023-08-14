@@ -37,5 +37,12 @@
 
 ## August 14, 2023
 
-* Document the exploitation of the 10.0.0.123 system
+* Phase 2 of the Pentest Process: Intelligence Gathering - Nessus scans (Continuation)
+* Document the exploitation of the 10.0.0.123 system (user: bob)
+* Report (Continuation)
+
+
+## August 15, 2023
+
+* Phase 2 of the Pentest Process: Intelligence Gathering - Nmap (Continuation)
 * Report (Continuation)
