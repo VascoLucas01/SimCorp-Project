@@ -34,3 +34,7 @@
 
 * Phase 2 of the Pentest Process: Intelligence Gathering - Nessus scans (Continuation)
 * Report (Continuation)
+
+## August 14, 2023
+
+* Report (Continuation)
