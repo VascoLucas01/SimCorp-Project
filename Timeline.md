@@ -37,4 +37,5 @@
 
 ## August 14, 2023
 
+* Document the exploitation of the 10.0.0.123 system
 * Report (Continuation)
