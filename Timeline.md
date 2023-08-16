@@ -45,4 +45,5 @@
 ## August 15, 2023
 
 * Phase 2 of the Pentest Process: Intelligence Gathering - Nmap (Continuation)
+* Meeting with blue team to monitor attack on machine 10.0.0.123
 * Report (Continuation)
