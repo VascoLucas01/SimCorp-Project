@@ -22,28 +22,38 @@
 
 ## August 11, 2023
 
-* Phase 2 of the Pentest Process: Intelligence Gathering - Host discovery (Continuation)
-* Report (Continuation)
+* Phase 2 of the Pentest Process: Intelligence Gathering - Host discovery 
+* Report - Final Project Penetration Test Report
 
 ## August 12, 2023
 
-* Phase 2 of the Pentest Process: Intelligence Gathering - Understand the services, and OS (Continuation)
-* Report (Continuation)
+* Phase 2 of the Pentest Process: Intelligence Gathering - Understand the services, and OS 
+* Report - Final Project Penetration Test Report
 
 ## August 13, 2023
 
-* Phase 2 of the Pentest Process: Intelligence Gathering - Nessus scans (Continuation)
-* Report (Continuation)
+* Phase 4 of the Pentest Process: Vulnerability Analysis - Nessus scans 
+* Report - Final Project Penetration Test Report
 
 ## August 14, 2023
 
-* Phase 2 of the Pentest Process: Intelligence Gathering - Nessus scans (Continuation)
-* Document the exploitation of the 10.0.0.123 system (user: bob)
-* Report (Continuation)
+* Phase 4 of the Pentest Process: Vulnerability Analysis - Nessus scans (Continuation)
+* Phase 5 of the Pentest Process: Exploitation (gain access)
+* Document the sucessfully exploitation of the 10.0.0.123 system (user: bob)
+* Report - Final Project Penetration Test Report
 
 
 ## August 15, 2023
 
 * Phase 2 of the Pentest Process: Intelligence Gathering - Nmap (Continuation)
-* Meeting with blue team to monitor attack on machine 10.0.0.123
-* Report (Continuation)
+* Meeting with blue team to monitor attack on machine 10.0.0.123 
+* Report - Final Project Penetration Test Report
+
+## August 16, 2023
+
+* Live attack to a new machine (10.0.0.126) that shows up for a limited period on the SimCorp's network together with the blue team 
+* Report - Web application vulnerabilty report
+
+## August 17, 2023
+
+* Report - Web application vulnerabilty report (Continuation)
