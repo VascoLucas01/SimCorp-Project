@@ -52,8 +52,8 @@
 ## August 16, 2023
 
 * Live attack to a new machine (10.0.0.126) that shows up for a limited period on the SimCorp's network together with the blue team 
-* Report - Web application vulnerabilty report
+* Report - Web Application Detailed Assessment Findings
 
 ## August 17, 2023
 
-* Report - Web application vulnerabilty report (Continuation)
+* Report - Web Application Detailed Assessment Findings (Continuation)
