@@ -38,7 +38,7 @@
 ## August 14, 2023
 
 * Phase 4 of the Pentest Process: Vulnerability Analysis - Nessus scans (Continuation)
-* Phase 5 of the Pentest Process: Exploitation (gain access) - 10.0.0.123 system (user: bob)
+* Phase 5 of the Pentest Process: Exploitation (gain access) - 10.0.0.82 (user: vagrant) & 10.0.0.123 (user: bob) systems 
 * Phase 7 of the Pentest Process: Reporting - Final Project Penetration Test Report (continuation)
 
 
