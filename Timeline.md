@@ -64,3 +64,9 @@
 * Phase 5 of the Pentest Process: Exploitation (gain access) - 10.0.0.74 and 10.0.0.175 systems
 * Document the sucessfully exploitation of 10.0.0.74, 10.0.0.175 and 10.0.0.206 systems
 * Phase 7 of the Pentest Process: Reporting - Final Project Penetration Test Report (continuation)
+
+
+## August 21, 2023
+
+* Python script that scans a target for possible XSS vulnerabilities (LINK)
+* Phase 7 of the Pentest Process: Reporting - Final Project Penetration Test Report (continuation)
