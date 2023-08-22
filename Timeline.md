@@ -70,3 +70,8 @@
 
 * Python script that scans a target for possible XSS vulnerabilities (LINK)
 * Phase 7 of the Pentest Process: Reporting - Final Project Penetration Test Report (continuation)
+
+
+## August 22, 2023
+
+* Phase 7 of the Pentest Process: Reporting - Final Project Penetration Test Report (continuation)
