@@ -77,3 +77,6 @@
 * Phase 7 of the Pentest Process: Reporting - Final Project Penetration Test Report (continuation)
 
 ## August 23, 2023
+
+* Build/Customize python tool - xss_scanner.py
+* Phase 7 of the Pentest Process: Reporting - Final Project Penetration Test Report (continuation)
