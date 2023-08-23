@@ -7,10 +7,12 @@
 
 # Import libraries
 
+import os
 import requests
 from pprint import pprint
 from bs4 import BeautifulSoup as bs
 from urllib.parse import urljoin
+from dotenv import load_dotenv
 
 # This function is identifying all form type fields on a specific url and returning it to where the function is being called.
 def get_all_forms(url,session):
@@ -78,9 +80,14 @@ def scan_xss(url,session):
 # This is just the main function that shows when script is first run asking for the url the user wants to target.
 if __name__ == "__main__":
 
+    load_dotenv()
+
+    username = os.getenv('USERNAME')
+    password = os.getenv('PASSWORD')
+    
     URL = "http://10.0.0.175/simcorp/login.php"
     session = requests.session()
-    r = session.post(URL, data = {"login": "bee", "password": "password", "security_level": "0", "form": "submit"})
+    r = session.post(URL, data = {"login": username, "password": password, "security_level": "0", "form": "submit"})
     
     url = input("Enter a URL to test for XSS:")
     scan_xss(url,session)
