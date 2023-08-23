@@ -68,7 +68,7 @@
 
 ## August 21, 2023
 
-* Python script that scans a target for possible XSS vulnerabilities (LINK)
+* Python script that scans a target for possible XSS vulnerabilities ([PythonTool](https://github.com/VascoLucas01/SimCorp-Project/tree/main/PythonTool))
 * Phase 7 of the Pentest Process: Reporting - Final Project Penetration Test Report (continuation)
 
 
@@ -78,5 +78,4 @@
 
 ## August 23, 2023
 
-* Build/Customize python tool - xss_scanner.py
 * Phase 7 of the Pentest Process: Reporting - Final Project Penetration Test Report (continuation)
