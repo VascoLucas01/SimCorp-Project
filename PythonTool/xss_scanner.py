@@ -3,7 +3,7 @@
 # Author:      Abdou Rockikz
 # Description: Scan a target for possible XSS vulnerabilities.
 # Date:        21/08/2023
-# Modified by: Sergio Charruadas
+# Modified by: Sergio Charruadas, Vasco Lucas
 
 # Import libraries
 
@@ -12,14 +12,8 @@ from pprint import pprint
 from bs4 import BeautifulSoup as bs
 from urllib.parse import urljoin
 
-# Declare a Login URL and Get a Session.
-
-URL = "http://10.0.0.175/simcorp/login.php"
-session = requests.session()
-r = session.post(URL, data = {"login": "bee", "password": "password", "security_level": "0", "form": "submit"})
-
 # This function is identifying all form type fields on a specific url and returning it to where the function is being called.
-def get_all_forms(url):
+def get_all_forms(url,session):
     soup = bs(session.get(url).content, "html.parser")
     return soup.find_all("form")
 
@@ -39,7 +33,7 @@ def get_form_details(form):
     return details
 
 # Submits an HTML form given its details and base URL
-def submit_form(form_details, url, value):
+def submit_form(form_details, url, session, value):
     target_url = urljoin(url, form_details["action"])
     inputs = form_details["inputs"]
     data = {}
@@ -57,8 +51,8 @@ def submit_form(form_details, url, value):
         return session.get(target_url, params=data)
 
 # Scans a URL for forms with cross-site scripting (XSS) vulnerabilities
-def scan_xss(url):
-    forms = get_all_forms(url)
+def scan_xss(url,session):
+    forms = get_all_forms(url,session)
     print(f"[+] Detected {len(forms)} forms on {url}.")
     
     with open("xss_payloads.txt") as f:
@@ -69,7 +63,7 @@ def scan_xss(url):
         js_script = js_script.strip()  
         for form in forms:
             form_details = get_form_details(form)
-            content = submit_form(form_details, url, js_script).content.decode() 
+            content = submit_form(form_details, url, session, js_script).content.decode() 
             if js_script in content:
                 print(f"[+] XSS Detected on {url}")
                 print(f"[*] Form details:")
@@ -83,5 +77,10 @@ def scan_xss(url):
 
 # This is just the main function that shows when script is first run asking for the url the user wants to target.
 if __name__ == "__main__":
+
+    URL = "http://10.0.0.175/simcorp/login.php"
+    session = requests.session()
+    r = session.post(URL, data = {"login": "bee", "password": "password", "security_level": "0", "form": "submit"})
+    
     url = input("Enter a URL to test for XSS:")
-    scan_xss(url)
+    scan_xss(url,session)
