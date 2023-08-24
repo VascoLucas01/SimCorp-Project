@@ -79,3 +79,7 @@
 ## August 23, 2023
 
 * Phase 7 of the Pentest Process: Reporting - Final Project Penetration Test Report (continuation)
+
+## August 24, 2023
+
+* Phase 7 of the Pentest Process: Reporting - Final Project Penetration Test Report (concluded)
