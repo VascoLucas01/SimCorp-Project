@@ -84,3 +84,5 @@
 
 * Phase 7 of the Pentest Process: Reporting - Final Project Penetration Test Report (concluded)
 * Demo day slide deck - Template
+
+## August 25, 2023
