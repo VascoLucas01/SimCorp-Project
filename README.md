@@ -53,7 +53,8 @@ For example, if we wanted to perform attacks from Kali Linux, we would activate 
 
 ## Deliverables:
 
-[TeamAgreements](https://github.com/VascoLucas01/Cyber-Final-Project/tree/main/TeamAgreements) | [Kali-Ma-PenTesting-Report](https://drive.google.com/file/d/1BOD2nTQUxHmKeSktVoJ5CLDfRYCDYCSc/view?usp=sharing)
+* [TeamAgreements](https://github.com/VascoLucas01/Cyber-Final-Project/tree/main/TeamAgreements)
+* [Kali-Ma-PenTesting-Report](https://drive.google.com/file/d/1BOD2nTQUxHmKeSktVoJ5CLDfRYCDYCSc/view?usp=sharing)
 
 ## Team Contributors:
 
