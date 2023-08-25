@@ -55,6 +55,7 @@ For example, if we wanted to perform attacks from Kali Linux, we would activate 
 
 * [TeamAgreements](https://github.com/VascoLucas01/Cyber-Final-Project/tree/main/TeamAgreements)
 * [Kali-Ma-PenTesting-Report](https://drive.google.com/file/d/1BOD2nTQUxHmKeSktVoJ5CLDfRYCDYCSc/view?usp=sharing)
+* [TTPs attempted mapped 1:1 to MITRE ATT&CK](https://drive.google.com/file/d/1AYK3k1ejZ4gel-8MJtU4YXLC2W4eAZAy/view?usp=sharing)
 
 ## Team Contributors:
 
