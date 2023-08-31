@@ -86,4 +86,4 @@
 
 ## August 27, 2023
 
-* Demo day slide deck - Content
+* Demo day slide deck - Content (concluded)
