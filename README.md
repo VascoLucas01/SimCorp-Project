@@ -57,7 +57,7 @@ For example, if we wanted to perform attacks from Kali Linux, we would activate 
 * [Timeline](https://github.com/VascoLucas01/SimCorp-Project/blob/main/Timeline.md)
 * [Web Server 10.0.0.175 - Detailed Assessment Findings](https://docs.google.com/document/d/1neGJOnHg3FmyEQVkgbNVRY3yPx7IxyA700IObZKzwjQ/edit?usp=sharing)
 * [Kali-Ma-PenTesting-Report](https://drive.google.com/file/d/1BOD2nTQUxHmKeSktVoJ5CLDfRYCDYCSc/view?usp=sharing)
-* [Nmap Scan (10.0.0.0/16)](https://pastebin.com/tQGFfqgH)
+* [Nmap Scan (10.0.0.0/16)](https://pastebin.com/raw/tQGFfqgH)
 * [Nessus Scan](https://drive.google.com/file/d/1aAvsoNK3MGF1WwJk6b6YYzc2guRq0ctp/view?usp=sharing)
 * [Exploitation Resume](https://drive.google.com/file/d/1UoTeYqcw7BGaPrDXr8-LXxyd8f5-8lLY/view?usp=sharing)
 * [Exploitation Draft Document](https://docs.google.com/document/d/1n67WK_4yjtL_If2lwChJByRv9Z_7ACakDfBEMdbWBmg/edit)
