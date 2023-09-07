@@ -69,7 +69,7 @@ def scan_xss(url,session):
             if js_script in content:
                 print(f"[+] XSS Detected on {url}")
                 print(f"[*] Form details:")
-                print(form_details)
+                pprint(form_details)
                 is_vulnerable = True
                 successful_payloads.append(js_script)
     print("\nSuccessful Payloads: \n")
