@@ -53,6 +53,7 @@ For example, if we wanted to perform attacks from Kali Linux, we would activate 
 
 ## Deliverables:
 
+* [Slide Deck](https://drive.google.com/file/d/1WlDwYCBPEs-S3j6wFIFuVQ2O1mSdE_uu/view?usp=sharing)
 * [TeamAgreements](https://github.com/VascoLucas01/Cyber-Final-Project/tree/main/TeamAgreements)
 * [Timeline](https://github.com/VascoLucas01/SimCorp-Project/blob/main/Timeline.md)
 * [Web Server 10.0.0.175 - Detailed Assessment Findings](https://docs.google.com/document/d/1neGJOnHg3FmyEQVkgbNVRY3yPx7IxyA700IObZKzwjQ/edit?usp=sharing)
